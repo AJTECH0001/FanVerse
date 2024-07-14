@@ -1,25 +1,5 @@
 
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-
-
-
-
 ## FanVerse - A Web3-Enabled Global Fan Community Platform
 
 ## Overview
@@ -113,3 +93,19 @@ Fans gain enhanced experiences and rewards, while IP holders (idols, celebrities
 ## Basis of Probability:
 
 Conduct user interviews and surveys to validate the concept and ensure it meets the needs and preferences of the target audience.
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
