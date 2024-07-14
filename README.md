@@ -1,6 +1,6 @@
 
 
-## FanVerse - A Web3-Enabled Global Fan Community Platform
+### FanVerse - A Web3-Enabled Global Fan Community Platform
 
 ## Overview
 
